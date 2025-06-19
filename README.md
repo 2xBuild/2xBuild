@@ -1,14 +1,14 @@
 
 <h1 align="center">Hey there, I'm void() <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F7971E&center=true&vCenter=true&width=435&lines=full+stack+dev;web3+is+%F0%9F%92%96;Crypto+Enthusiasts" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F7971E&center=true&vCenter=true&width=435&lines=Full+Stack+Dev;Web3+Dev;Onchain" alt="Typing SVG" />
 </p>
 
 ---
 
 > 🚀 Welcome to my github
 > Full Stack and Web3 Developer
-> I build scalable apps, tinker with blockchains, and love turning ☕ into code.
+> Building onchain and offchain apps
 
 ---
 
@@ -36,26 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="32" height="32"/>
 </p>
 
-### 🌐 Web3 & Blockchain
-<p>
-  <!-- Icons not working, using text list instead -->
-  <ul>
-    <li>Ethereum</li>
-    <li>Polygon</li>
-    <li>Binance Smart Chain</li>
-    <li>Solidity</li>
-    <li>Web3.js</li>
-    <li>Ethers.js</li>
-    <li>Metamask</li>
-    <li>WalletConnect</li>
-  </ul>
-</p>
-<details>
-  <summary>Having trouble seeing the icons? Click to see the list!</summary>
-  <ul>
-    <li>Ethereum, Polygon, Binance Smart Chain, Solidity, Hardhat, Truffle, Web3.js, Ethers.js, IPFS, The Graph, Metamask, WalletConnect</li>
-  </ul>
-</details>
 
 
 ---
