@@ -6,9 +6,9 @@
 
 ---
 
-> 🚀 Welcome to my github
-> Full Stack and Web3 Developer
-> Building onchain and offchain apps
+> 🚀 Welcome to my GitHub.
+Full Stack and Web3 Developer.
+Building on-chain and off-chain apps.
 
 ---
 
@@ -59,12 +59,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" height="100"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=F7971E&style=flat-square" alt="Profile Views"/>
-</p>
 
 
