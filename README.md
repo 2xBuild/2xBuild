@@ -36,6 +36,9 @@ im void ( pseudonym ), a curious and ambitious guy.
 In case you need talents/team to build, DMs are open.
 
 
+### Disclaimer
+Views are my own and don't reflect any organization. Following/Liking  doesn't mean I endorse them. I'm not a certified advisor in any field. I use social media for fun and personal sharing.
+
 <br>
 Thank you <br>
 void.
