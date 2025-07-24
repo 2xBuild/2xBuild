@@ -1,16 +1,33 @@
 ## Hi there 👋
+im void ( pseudonym ), a curious and ambitious guy.
 
-<!--
-**2xBuild/2xBuild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Exploring
+- Machine Learning and AI
+- LLMs
+- Deep Learning
+- NLP
+- DevOps 
+- Backend Tech.
+- Web3 fundamentals.
 
-Here are some ideas to get you started:
+# I code in 
+- **Js (NodeJs)**
+- **Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Background
+- **in Web3 and Crypto** since 2020
+- Built tools, communities and brands.
+
+
+# Hobbies 
+- Chess
+- Music
+- Building cool stuff.
+
+I mostly code out of passion, rarely for money. 
+Don't wanna miss out next billionaire's journey? touch follow button right away :)
+
+
+Thank you
+void.
+
