@@ -28,10 +28,8 @@ im void ( pseudonym ), a curious and ambitious guy.
 
 
 ### Hobbies 
-— Chess
-
-— Music
-
+— Chess <br>
+— Music <br>
 — Building cool stuff.
 
 
@@ -44,10 +42,11 @@ im void ( pseudonym ), a curious and ambitious guy.
 - Not a perfect guy but I learn and adapt quickly.
 
 
-Don't wanna miss out next billionaire's journey? touch follow button right away :)
+### Open for Business.
+In case you need talents/team to build, DMs are open.
+
 
 
 Thank you
-
 void.
 
