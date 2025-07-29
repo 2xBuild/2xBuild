@@ -50,7 +50,7 @@ Views are my own and don't reflect any organization. Following/Liking  doesn't m
 Cuz I am not contributing publicly much. Just when I have mood of building something fun, I do and push it on GH.I see myself more like a founder than a dev :D
 
 #### Open for job?
-not generally, unless it is such a unordinary opportunity ( not always about money ) which can change my mind.
+not generally, unless it is such an extra-ordinary opportunity ( not always about money ) which can change my mind.
 
 <br>
 Thank you <br>
