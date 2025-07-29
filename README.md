@@ -46,7 +46,7 @@ In case you need talents/team to build, DMs are open.
 Views are my own and don't reflect any organization. Following/Liking  doesn't mean I endorse them. I'm not a certified advisor in any field. I use social media for fun and personal sharing.
 
 ### FaQ 
-#### Why my Github looks so dry ?
+#### Why does my Github looks so dry ?
 Cuz I am not contributing publicly much. Just when I have mood of building something fun, I do and push it on GH.I see myself more like a founder than a dev :D
 
 #### Open for job?
