@@ -11,7 +11,7 @@ im void ( pseudonym ), a curious and ambitious guy.
 → Web3 fundamentals.
 
 ### I code in 
-→ **Js (NodeJs)** <br>
+→ **Js** <br>
 → **Python**
 
 ### Background
@@ -24,7 +24,13 @@ im void ( pseudonym ), a curious and ambitious guy.
 → Music <br>
 → Building cool stuff.
 
-
+### Soft Skills & Qual. 
+→ Leadership <br>
+→ Analyst <br>
+→ Risk-Taker // venturist <br>
+→ Building <br>
+→ Marketing <br>
+→ Writing in depth 
 
 ### Random Facts about me.
 → I mostly code out of passion, rarely for money. <br>
@@ -38,6 +44,13 @@ In case you need talents/team to build, DMs are open.
 
 ### Disclaimer
 Views are my own and don't reflect any organization. Following/Liking  doesn't mean I endorse them. I'm not a certified advisor in any field. I use social media for fun and personal sharing.
+
+### FaQ 
+#### Why my Github looks so dry ?
+Cuz I am not contributing publicly much. Just when I have mood of building something fun, I do and push it on GH.I see myself more like a founder than a dev :D
+
+#### Open for job?
+not generally, unless it is such a unordinary opportunity ( not always about money ) which can change my mind.
 
 <br>
 Thank you <br>
