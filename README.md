@@ -7,4 +7,5 @@ list of projects i built
 - [tpot](https://tpot.cc): directory of tech part of twitter, events, rages and highlights at one place.
 - [buildzak](https://buildzak.com/): launchpad for ideas and projects.
 - [lnk.ad](https://github.com/2xBuild/lnk.ad): free and no login url shortner with rate limit
-- [math-fun](https://github.com/2xBuild/math-fun): Terminal based interesting games. 
+- [math-fun](https://github.com/2xBuild/math-fun): Terminal based interesting games.
+- [web-games](https://github.com/2xBuild/games): pick-and-recall-color, test your iq etc games 
