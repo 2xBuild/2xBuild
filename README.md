@@ -1,5 +1,5 @@
 hey! welcome. this is hanu.  
-[Visit Here](https://hanu.sh) for more.
+[visit](https://hanu.sh) for more.
 
 list of projects i built
 
