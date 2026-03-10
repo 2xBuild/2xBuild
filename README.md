@@ -1,4 +1,4 @@
-Hi Welcome this is Hanu.  
+hey! welcome. this is hanu.  
 [Visit Here](https://hanu.sh) for more.
 
 list of projects i built
