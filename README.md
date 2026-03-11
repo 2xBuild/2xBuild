@@ -9,4 +9,4 @@ projects i've built/building
 - [NextWord](https://github.com/2xBuild/NextWord-Server): Multiplayer words game built with ws 
 - [lnk.ad](https://github.com/2xBuild/lnk.ad): free and no login url shortner with rate limit
 - [math-fun](https://github.com/2xBuild/math-fun): Terminal based interesting games.
-- [web-games](https://github.com/2xBuild/games): pick-and-recall-color, test your iq etc games 
+- [web-games](https://github.com/2xBuild/games): recall-color, test your iq etc games 
