@@ -1,7 +1,7 @@
 hey! welcome. this is hanu.  
 [visit this](https://hanu.sh) for more.
 
-list of projects i built
+projects i've built/building
 
 - [cutefolio](https://github.com/2xBuild/cutefolio): build portfolios with a bunch of cute templates, analytics, custom domain and much more.
 - [tpot](https://tpot.cc): directory of tech part of twitter, events, rages and highlights at one place.
