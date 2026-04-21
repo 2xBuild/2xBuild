@@ -3,7 +3,7 @@ hey! welcome. this is hanu.
 
 projects i've built/building
 
--dotschool: organised self-study that actually works (pending)    
+-[dotschool](https://github.com/2xBuild/dotschool): organised self-study that actually works    
 -[cutefolio](https://github.com/2xBuild/cutefolio): build portfolios with a bunch of cute templates, analytics, custom domain and much more.  
 -[tpot](https://tpot.cc): directory of tech part of twitter, events, rages and highlights at one place.    
 
